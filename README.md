@@ -6,4 +6,7 @@ For more info please send an e-mail to Nikola Aleksic via [aleksicnikola46@gmail
 Starter package for authentication in profile management.
 
 - composer require laravel/breeze --dev
+- php artisan breeze:install (for react with inertia) this installation will install couple packages:
+ziggy for declaring roads inside react
+  
 
